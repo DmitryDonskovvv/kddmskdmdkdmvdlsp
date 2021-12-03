@@ -1,0 +1,1 @@
+token = "8b345e8fd66b0424e77c885e4f5da116cf5951c3707798acdd6357324478fe6f944dcb87f89ec2aee059b" # token vk, longpolmerchant_key = "Wgu!5FS4j6Rqrkhpc1kU.Ygj3wkGnku&&!]LK=.;GyO=3][P[j" # vk.com/coin#create_merchantid = 684811495 # ваш id vk, например: мой id447409965, а я пишу 447409965 (без id)group_id = 209272480 # цифренный id вашей группы
